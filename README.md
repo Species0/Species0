@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aadi Apoorva 
-- 👀 I’m interested in learning more about Machine Learning with with yhtn
+- 👀 I’m interested in learning more about Machine Learning with with python
 - 🌱 I’m currently learning Reinforcement Learning 
 - 📫 How to reach me fibonaccihatake@gmail.com
 
