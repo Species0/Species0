@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Species
+- 👋 Hi, I’m Aadi Apoorva 
 - 👀 I’m interested in learning more about Machine Learning with with yhtn
 - 🌱 I’m currently learning Reinforcement Learning 
 - 📫 How to reach me fibonaccihatake@gmail.com
