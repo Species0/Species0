@@ -1,1 +1,1 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=%2336BCF7&lines=+%3D%3D%3EI+am+Aadi+Apoorva+;+%3D%3D%3E+I+am+learning+reinforcement+Learning;+%3D%3D%3E+I+usually+code+in+python+;+%3D%3D%3E+You+can+reach+me+by+mail+fibonaccihatake%40gmail.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=%3D%3D%3E+hey+I'm+Aadi+Apoorva+)](https://git.io/typing-svg)
